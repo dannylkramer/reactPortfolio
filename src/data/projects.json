@@ -1,0 +1,15 @@
+[
+    {
+      "title": "Project 1",
+      "imageSrc": "/images/project1-screenshot.jpg",
+      "liveLink": "https://project1-live.com",
+      "repoLink": "https://github.com/dannylkramer/project1"
+    },
+    {
+      "title": "Project 2",
+      "imageSrc": "/images/project2-screenshot.jpg",
+      "liveLink": "https://project2-live.com",
+      "repoLink": "https://github.com/dannylkramer/project2"
+    }
+  ]
+  
