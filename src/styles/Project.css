@@ -1,0 +1,37 @@
+/* src/styles/Project.css */
+.project {
+    background: #fff;
+    border: 1px solid #e0e0e0; /* Light border for subtle separation */
+    border-radius: 8px; /* Rounded corners */
+    padding: 15px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+  }
+  
+  .project-image {
+    width: 100%;
+    border-radius: 8px; /* Match the project container's border radius */
+    margin-bottom: 10px;
+  }
+  
+  .project-title {
+    font-family: 'Georgia', serif; /* Elegant serif font */
+    color: #333; /* Dark color for titles */
+    margin-bottom: 10px;
+  }
+  
+  .project-links {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .project-links a {
+    text-decoration: none;
+    color: #7f8c8d; /* Soft, muted color for links */
+    font-size: 14px;
+  }
+  
+  .project-links a:hover {
+    color: #333; /* Darker color on hover */
+  }
+  

@@ -1,0 +1,19 @@
+/* src/styles/App.css */
+body {
+    margin: 0;
+    font-family: 'Georgia', serif; /* Elegant serif font */
+    background-color: #f5f5f5; /* Soft, light background color */
+    color: #333; /* Dark gray text color for readability */
+  }
+  
+  .app {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+  
+  main {
+    flex: 1;
+    padding: 20px;
+  }
+  
