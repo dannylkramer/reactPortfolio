@@ -1,0 +1,18 @@
+/* src/styles/Footer.css */
+footer {
+    background: #fff; /* Light background for the footer */
+    border-top: 1px solid #e0e0e0; /* Subtle border for separation */
+    padding: 10px 20px;
+    text-align: center;
+  }
+  
+  footer a {
+    color: #6c757d; /* Muted gray color */
+    text-decoration: none;
+    margin: 0 10px;
+  }
+  
+  footer a:hover {
+    color: #333; /* Darker color on hover */
+  }
+  

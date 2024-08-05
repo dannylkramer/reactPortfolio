@@ -1,0 +1,19 @@
+/* src/styles/Navigation.css */
+nav {
+    display: flex;
+    justify-content: center;
+    background: #f9f9f9; /* Light background for the nav */
+    padding: 10px 0;
+    border-bottom: 1px solid #e0e0e0;
+  }
+  
+  nav a {
+    color: #6c757d; /* Muted gray color */
+    text-decoration: none;
+    padding: 0 15px;
+  }
+  
+  nav a:hover {
+    color: #333; /* Darker color on hover */
+  }
+  
