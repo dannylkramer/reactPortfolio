@@ -1,15 +1,26 @@
 [
     {
-      "title": "Project 1",
-      "imageSrc": "/images/project1-screenshot.jpg",
-      "liveLink": "https://project1-live.com",
-      "repoLink": "https://github.com/dannylkramer/project1"
+      "title": "Installable Text-Editor",
+      "imageSrc": "src/images/text-editor.png",
+      "liveLink": "https://text-editor-nuo5.onrender.com",
+      "repoLink": "https://github.com/dannylkramer/text-editor"
     },
     {
-      "title": "Project 2",
-      "imageSrc": "/images/project2-screenshot.jpg",
-      "liveLink": "https://project2-live.com",
-      "repoLink": "https://github.com/dannylkramer/project2"
+      "title": "Weather Dashboard",
+      "imageSrc": "src/images/weather-dashboard.ss.png",
+      "liveLink": "https://dannylkramer.github.io/weather-dashboard/",
+      "repoLink": "https://github.com/dannylkramer/weather-dashboard"
+    },
+    {
+      "title": "Express.js Note Taker",
+      "imageSrc": "src/images/notes-page.png",
+      "repoLink": "https://github.com/dannylkramer/note-taker-express.js"
+    },
+    {
+      "title": "For Swifties ONLY",
+      "imageSrc": "src/images/swifties.png",
+      "liveLink": "https://dannylkramer.github.io/groupProject-1/",
+      "repoLink": "https://github.com/dannylkramer/groupProject-1"
     }
   ]
   

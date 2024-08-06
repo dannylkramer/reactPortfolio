@@ -6,7 +6,6 @@ const AboutMe = () => {
     return (
         <section>
             <h2>About Me</h2>
-            <img src="/images/developer-photo.jpg" alt="Developer" className="profile-photo" />
             <p> Hello! I'm a passionate beginner in the world of coding, eager to learn and explore. Recently, I
                 took my first steps by creating a simple webpage to showcase my portfolio and document my
                 learning journey. As I delve into this exciting field, I'm thrilled to share my progress,

@@ -6,7 +6,6 @@ const Header = () => {
   return (
     <header>
       <h1>Danny Kramer</h1>
-      <Navigation />
     </header>
   );
 };
