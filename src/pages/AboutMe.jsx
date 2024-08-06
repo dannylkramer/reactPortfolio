@@ -21,7 +21,7 @@ const AboutMe = () => {
             <p>
                 Here’s a brief overview of my skills and experiences. For more detailed information, you can download my resume using the link below.
             </p>
-            <a href="/path-to-your-resume.pdf" download>Download Resume</a>
+            <a href="src/data/updated_resume.pdf" download>Download Resume</a>
         </section>
     );
 };
